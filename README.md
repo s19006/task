@@ -1,7 +1,7 @@
 # GraduationTasks2021
 
 ## Title
-地図アプリ
+・地図アプリ
 
 
 ### Member

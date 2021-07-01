@@ -1,7 +1,7 @@
 # GraduationTasks2021
 
 ## Title
-タコライス屋探せる地図アプリ
+地図アプリ
 
 
 ### Member
